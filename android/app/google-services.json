@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "427726862589",
+    "project_id": "flutter-exd",
+    "storage_bucket": "flutter-exd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427726862589:android:40c765a8887968d831a694",
+        "android_client_info": {
+          "package_name": "com.example.exd_flutter_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDPeGW_B6jBVk2C308FsiSBZqZm7akiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427726862589-ec0muekvh3jlh1i3j209iht1krsu9rj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoappFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427726862589:android:ab02f374a742cbc931a694",
+        "android_client_info": {
+          "package_name": "com.example.flutter_class_work"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDPeGW_B6jBVk2C308FsiSBZqZm7akiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427726862589-ec0muekvh3jlh1i3j209iht1krsu9rj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoappFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427726862589:android:12399c5acb7d163a31a694",
+        "android_client_info": {
+          "package_name": "com.example.todoapp_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDPeGW_B6jBVk2C308FsiSBZqZm7akiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427726862589-ec0muekvh3jlh1i3j209iht1krsu9rj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoappFirebase"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427726862589:android:459e4e3737bf065431a694",
+        "android_client_info": {
+          "package_name": "com.exd.flutter_exd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyDPeGW_B6jBVk2C308FsiSBZqZm7akiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427726862589-8gmvora00l1dsgqosggp646kmhevf3h9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427726862589-ec0muekvh3jlh1i3j209iht1krsu9rj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.todoappFirebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
